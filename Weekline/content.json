@@ -1,0 +1,488 @@
+{
+  "en": {
+    "label": "English",
+    "privacyTitle": "Privacy Policy",
+    "termsTitle": "Terms of Use",
+    "date": "Effective date: October 16, 2026",
+    "privacyIntro": "This policy explains how nextlinecode handles information in Weekline, the weekly planner formerly named Alarmu, on iOS and Android.",
+    "privacy": [
+      [
+        "1. Operator and contact",
+        "The service operator is nextlinecode. For privacy questions or requests, email nextlinecode@gmail.com. Weekline does not require a Weekline account."
+      ],
+      [
+        "2. Plans and preferences on your device",
+        "Event titles, dates, notes, checklists, completion status, repeat rules, reminders, themes and Pro status are stored on your device. The app does not upload your schedule contents to a nextlinecode server. Smart date and time entry is processed on the device."
+      ],
+      [
+        "3. Usage analytics",
+        "The app uses Google Analytics for Firebase. It records screen views and actions such as creating, editing or completing an event, changing weeks and selecting themes. Custom event parameters include the entry method, repeat type and number of reminders; they do not include event titles, notes or checklist text.",
+        "The SDK may also collect app-instance and device identifiers, app and operating-system versions, language, session and purchase events, and approximate region. Advertising identifiers may be processed when available under platform settings. Network services process IP addresses to deliver requests. We use analytics to understand usage and improve the app. The current app does not display advertising."
+      ],
+      [
+        "4. Purchases and support",
+        "Apple App Store or Google Play processes payments. Weekline receives product, transaction and entitlement information to unlock or restore Pro. We do not receive your full payment-card details or store-account password.",
+        "If you contact us, we process your email address, message and any information you choose to attach to answer your request. Please avoid sending unnecessary schedule contents or sensitive information."
+      ],
+      [
+        "5. Notifications, widgets and backup files",
+        "Reminders are scheduled locally on your device. Event details can appear in notifications and widgets, including on the lock screen, depending on your settings. Widget data is shared with the operating system and the app’s widget extension.",
+        "The app creates local backup files when schedules change. Export uses the system share sheet: data goes to the destination you choose, such as a file provider or cloud drive. Exported JSON files contain readable schedule contents. Device backups may also include app data under your operating-system settings."
+      ],
+      [
+        "6. Providers and processing abroad",
+        "Google processes analytics data, Apple and Google provide store services, and your selected file or email provider handles data you send through it. These providers may process data outside your country, including in the United States, under their terms and applicable safeguards. We do not sell your schedule contents.",
+        "This policy website is hosted on GitHub Pages. GitHub may process technical access information, including IP addresses and request logs. We have added no analytics scripts, advertising or tracking cookies to these pages."
+      ],
+      [
+        "7. Retention and deletion",
+        "Local data remains until it is deleted from app storage. Deleting an event does not necessarily remove older local backups. Removing the app or clearing its data generally removes its local data; exported files, device/cloud backups and operating-system caches must be managed separately.",
+        "Analytics retention follows the connected Google Analytics property’s configured retention rules. Aggregated reports may be retained differently. Uninstalling the app does not automatically erase previously collected analytics or store transaction records. Contact us for the applicable retention setting or a deletion request. Store records follow Apple’s or Google’s retention and legal obligations. Support correspondence is kept as needed to handle the request and meet applicable obligations."
+      ],
+      [
+        "8. Your choices and rights",
+        "You can edit or delete events, remove widgets, control notification previews and permissions, and manage exported files and device backups. The current version does not have an in-app analytics opt-out switch. Device advertising settings do not necessarily stop all analytics collection.",
+        "Depending on your location, you may request access, correction, deletion, restriction, objection or a copy of personal data, and complain to your local privacy authority. Email us to make a request. We may need limited information to identify the relevant records; without an app account, some analytics records cannot be linked to your email. We cannot access schedule data stored only on your device."
+      ],
+      [
+        "9. Children, security and changes",
+        "Weekline is a general-purpose planner and is not specifically directed at children. A parent or guardian can contact us about information submitted by a child. We take reasonable steps to protect information, but no device or transmission method is completely secure.",
+        "We may update this policy as the app or our practices change. The effective date appears above; material changes will be communicated as required by applicable law."
+      ]
+    ],
+    "termsIntro": "These terms apply to Weekline, provided by nextlinecode. Contact: nextlinecode@gmail.com.",
+    "terms": [
+      [
+        "1. Using Weekline",
+        "Weekline helps you organize events, tasks and reminders. No Weekline account is required. Use the app lawfully and only enter or share information you are entitled to use. These terms do not limit rights granted by mandatory consumer law."
+      ],
+      [
+        "2. Free features and Weekline Pro",
+        "Scheduling, one reminder per event, and light/dark mode are available free. Pro unlocks widgets, additional themes, multiple reminders, advanced repeat rules, weekly insights and smart date/time entry. Feature availability may depend on the device and app version."
+      ],
+      [
+        "3. One-time purchase and restoration",
+        "Weekline Pro is currently a one-time, non-consumable in-app purchase, not a subscription. The store displays the price and taxes before purchase. Apple or Google processes payment and applies its purchase and refund rules, alongside applicable consumer rights.",
+        "Restore eligible purchases with the same store account on the same platform. Purchases do not automatically transfer between iOS and Android. A Pro purchase does not include a promise that the service, every feature or every device will be supported indefinitely."
+      ],
+      [
+        "4. Your plans, backups and reminders",
+        "You retain your rights in the content you enter. Keep a backup of important information. nextlinecode does not provide a server copy of your schedule; importing a backup can replace current data.",
+        "Notifications can be affected by permissions, Focus modes, battery settings, time-zone changes and operating-system restrictions. Do not rely on Weekline as the sole reminder for safety-critical, medical or emergency matters."
+      ],
+      [
+        "5. Privacy, availability and responsibility",
+        "Information handling is described in the Privacy Policy. Updates and technical changes may affect availability or functionality. To the extent allowed by law, we do not guarantee uninterrupted operation or the absence of errors. Nothing excludes liability that cannot lawfully be excluded."
+      ],
+      [
+        "6. Changes and platform terms",
+        "We may revise these terms and publish the effective date here, with notice of material changes where required. Apple’s standard licensed-application EULA and the relevant store terms also apply where applicable. If a provision is unenforceable, mandatory law governs it and the remaining provisions continue to apply."
+      ]
+    ]
+  },
+  "ko": {
+    "label": "한국어",
+    "privacyTitle": "개인정보처리방침",
+    "termsTitle": "이용약관",
+    "date": "시행일: 2026년 10월 16일",
+    "privacyIntro": "이 방침은 nextlinecode가 iOS·Android 주간 플래너 Weekline(이전 이름 Alarmu)에서 정보를 처리하는 방법을 설명합니다.",
+    "privacy": [
+      [
+        "1. 운영자 및 문의처",
+        "서비스 운영자는 nextlinecode이며, 개인정보 관련 문의와 요청은 nextlinecode@gmail.com으로 보내실 수 있습니다. Weekline은 별도의 Weekline 계정 가입을 요구하지 않습니다."
+      ],
+      [
+        "2. 기기에 저장되는 일정과 설정",
+        "일정 제목·날짜·메모·체크리스트·완료 상태·반복 규칙·알림·테마·Pro 상태는 기기에 저장됩니다. 앱은 일정 내용을 nextlinecode 서버에 업로드하지 않습니다. 스마트 날짜·시간 입력은 기기에서 처리됩니다."
+      ],
+      [
+        "3. 사용 분석 정보",
+        "앱은 Google Analytics for Firebase를 사용합니다. 화면 조회, 일정 생성·수정·완료, 주 이동, 테마 변경 등의 활동을 기록합니다. 직접 설정한 이벤트 매개변수에는 입력 방식·반복 유형·알림 개수 등이 포함되며, 일정 제목·메모·체크리스트 본문은 포함되지 않습니다.",
+        "SDK는 앱 인스턴스 및 기기 식별자, 앱·운영체제 버전, 언어, 세션·구매 이벤트, 대략적인 지역 등을 수집할 수 있습니다. 플랫폼 설정에 따라 사용할 수 있는 광고 식별자가 처리될 수 있으며, 네트워크 서비스는 요청 전달 과정에서 IP 주소를 처리합니다. 분석 정보는 이용 현황 파악과 앱 개선에 사용합니다. 현재 앱에는 광고 표시 기능이 없습니다."
+      ],
+      [
+        "4. 구매 및 문의 정보",
+        "결제는 Apple App Store 또는 Google Play에서 처리합니다. 앱은 Pro 제공·복원을 위해 상품·거래·이용 권한 정보를 받습니다. 당사는 전체 카드 정보나 스토어 계정 비밀번호를 받지 않습니다.",
+        "문의하시면 답변을 위해 이메일 주소, 문의 내용, 직접 첨부한 정보를 처리합니다. 불필요한 일정 내용이나 민감한 정보는 보내지 말아 주세요."
+      ],
+      [
+        "5. 알림·위젯·백업 파일",
+        "알림은 기기에서 로컬로 예약됩니다. 설정에 따라 일정 정보가 잠금 화면을 포함한 알림과 위젯에 표시될 수 있습니다. 위젯 데이터는 운영체제 및 앱의 위젯 확장 기능과 공유됩니다.",
+        "일정 변경 시 앱 내부에 로컬 백업 파일이 생성됩니다. 내보내기는 운영체제 공유 기능을 사용하며, 사용자가 선택한 파일 제공자나 클라우드 드라이브로 전달됩니다. JSON 백업에는 읽을 수 있는 형태의 일정 내용이 포함됩니다. 운영체제의 기기 백업 설정에 따라 앱 데이터가 백업될 수도 있습니다."
+      ],
+      [
+        "6. 서비스 제공자 및 국외 처리",
+        "Google은 분석 정보를 처리하고, Apple·Google은 스토어 서비스를 제공합니다. 사용자가 선택한 파일·이메일 제공자는 해당 경로로 전달한 정보를 처리합니다. 제공자는 각 약관과 적용되는 보호조치에 따라 미국 등 이용자의 국가 밖에서 정보를 처리할 수 있습니다. 당사는 일정 내용을 판매하지 않습니다.",
+        "이 방침 웹사이트는 GitHub Pages에 게시됩니다. GitHub는 IP 주소와 요청 기록 등 기술적 접속 정보를 처리할 수 있습니다. 이 페이지에는 별도의 분석 스크립트·광고·추적 쿠키를 추가하지 않았습니다."
+      ],
+      [
+        "7. 보유 및 삭제",
+        "기기 내 데이터는 앱 저장공간에서 삭제될 때까지 남습니다. 일정을 삭제해도 이전 로컬 백업에 해당 내용이 남아 있을 수 있습니다. 앱 제거 또는 앱 데이터 삭제로 로컬 데이터가 일반적으로 제거되지만, 내보낸 파일·기기 및 클라우드 백업·운영체제 캐시는 별도로 관리해야 합니다.",
+        "분석 데이터는 연결된 Google Analytics 속성에 설정된 보관 규칙에 따라 보유하며, 집계 보고서에는 다른 기준이 적용될 수 있습니다. 앱 삭제가 기존 분석 데이터나 스토어 거래 기록까지 자동 삭제하는 것은 아닙니다. 적용되는 보관기간이나 삭제 요청은 문의처로 연락해 주세요. 스토어 기록은 Apple·Google의 보관 정책과 법적 의무에 따르며, 문의 내역은 문의 처리와 관련 의무 이행에 필요한 동안 보유합니다."
+      ],
+      [
+        "8. 선택권과 권리",
+        "일정 수정·삭제, 위젯 제거, 알림 권한·미리보기 설정, 내보낸 파일 및 백업 관리를 할 수 있습니다. 현재 버전에는 앱 내 분석 수집 중지 스위치가 없습니다. 기기의 광고 관련 설정만으로 모든 분석 수집이 중지되지는 않을 수 있습니다.",
+        "거주 지역에 따라 개인정보 열람·정정·삭제·처리 제한·처리 반대·사본 제공을 요청하고 관할 개인정보 감독기관에 민원을 제기할 권리가 있을 수 있습니다. 요청 시 문의처로 연락해 주세요. 해당 기록 확인에 필요한 최소한의 정보를 요청할 수 있으며, 앱 계정이 없어 일부 분석 기록은 이메일과 연결할 수 없습니다. 당사는 기기에만 저장된 일정에 접근할 수 없습니다."
+      ],
+      [
+        "9. 아동·보안·방침 변경",
+        "Weekline은 일반 사용자용 플래너이며 아동을 특별히 대상으로 하지 않습니다. 아동이 제공한 정보에 관한 사항은 보호자가 문의할 수 있습니다. 합리적인 정보 보호조치를 적용하지만 어떤 기기나 전송 방식도 완전한 안전을 보장하지 않습니다.",
+        "앱이나 처리 방식이 바뀌면 방침을 변경할 수 있습니다. 시행일은 위에 표시하며, 중요한 변경은 관련 법령에서 요구하는 방식으로 안내합니다."
+      ]
+    ],
+    "termsIntro": "이 약관은 nextlinecode가 제공하는 Weekline에 적용됩니다. 문의: nextlinecode@gmail.com.",
+    "terms": [
+      [
+        "1. 서비스 이용",
+        "Weekline은 일정·할 일·알림 관리를 지원하며 별도 Weekline 계정이 필요하지 않습니다. 서비스를 적법하게 이용하고, 입력·공유할 권한이 있는 정보만 사용해 주세요. 이 약관은 강행 법규에 따른 소비자의 권리를 제한하지 않습니다."
+      ],
+      [
+        "2. 무료 기능과 Weekline Pro",
+        "일정 관리, 일정별 알림 1개, 라이트·다크 모드는 무료입니다. Pro는 위젯, 추가 테마, 다중 알림, 고급 반복 규칙, 주간 통계, 스마트 날짜·시간 입력을 제공합니다. 기기나 앱 버전에 따라 기능 이용 범위가 달라질 수 있습니다."
+      ],
+      [
+        "3. 일회성 구매와 복원",
+        "Weekline Pro는 현재 구독이 아닌 일회성 비소모성 인앱결제 상품입니다. 가격과 세금은 구매 전 스토어에 표시됩니다. 결제는 Apple 또는 Google이 처리하며, 해당 스토어의 구매·환불 정책과 적용되는 소비자 권리가 함께 적용됩니다.",
+        "같은 플랫폼에서 동일한 스토어 계정으로 복원 가능한 구매를 복원할 수 있습니다. iOS와 Android 간 구매 권한은 자동 이전되지 않습니다. Pro 구매가 서비스·모든 기능·모든 기기에 대한 무기한 지원을 보장하는 것은 아닙니다."
+      ],
+      [
+        "4. 일정·백업·알림",
+        "입력한 콘텐츠에 대한 권리는 이용자에게 있습니다. 중요한 정보는 별도로 백업해 주세요. nextlinecode는 일정의 서버 사본을 제공하지 않으며, 백업 가져오기로 현재 데이터가 교체될 수 있습니다.",
+        "알림은 권한, 집중 모드, 배터리 설정, 시간대 변경, 운영체제 제한 등의 영향을 받을 수 있습니다. 안전·의료·긴급 상황에서는 Weekline을 유일한 알림 수단으로 사용하지 마세요."
+      ],
+      [
+        "5. 개인정보·가용성·책임",
+        "정보 처리에 관한 내용은 개인정보처리방침을 따릅니다. 업데이트와 기술적 변경으로 기능이나 가용성이 달라질 수 있습니다. 법률이 허용하는 범위에서 중단 없는 동작이나 오류가 없음을 보장하지 않습니다. 법적으로 배제할 수 없는 책임은 제한하지 않습니다."
+      ],
+      [
+        "6. 약관 변경과 플랫폼 조건",
+        "약관을 수정하면 이 페이지에 시행일을 표시하며, 필요한 경우 중요한 변경을 알립니다. 해당하는 경우 Apple의 표준 앱 사용권 계약(EULA) 및 관련 스토어 약관도 적용됩니다. 일부 조항이 집행 불가능한 경우 강행 법규가 적용되며 나머지 조항은 계속 유효합니다."
+      ]
+    ]
+  },
+  "es": {
+    "label": "Español (España)",
+    "privacyTitle": "Política de privacidad",
+    "termsTitle": "Condiciones de uso",
+    "date": "Fecha de entrada en vigor: 16 de octubre de 2026",
+    "privacyIntro": "Esta política explica cómo nextlinecode trata la información en Weekline, el planificador semanal antes llamado Alarmu, para iOS y Android.",
+    "privacy": [
+      [
+        "1. Responsable y contacto",
+        "El operador del servicio es nextlinecode. Para consultas o solicitudes de privacidad, escribe a nextlinecode@gmail.com. Weekline no requiere una cuenta propia."
+      ],
+      [
+        "2. Planes y preferencias en el dispositivo",
+        "Los títulos, fechas, notas, listas, estados de finalización, reglas de repetición, recordatorios, temas y estado Pro se guardan en tu dispositivo. La app no sube el contenido de tu agenda a un servidor de nextlinecode. La entrada inteligente de fechas y horas se procesa en el dispositivo."
+      ],
+      [
+        "3. Analítica de uso",
+        "La app utiliza Google Analytics for Firebase. Registra pantallas vistas y acciones como crear, editar o completar eventos, cambiar de semana o elegir un tema. Los parámetros personalizados incluyen el método de entrada, el tipo de repetición y el número de recordatorios; no incluyen títulos, notas ni textos de listas.",
+        "El SDK también puede recopilar identificadores de instancia y dispositivo, versiones de la app y del sistema, idioma, eventos de sesión y compra, y región aproximada. Puede tratar identificadores publicitarios cuando estén disponibles según la configuración de la plataforma. Los servicios de red procesan direcciones IP para transmitir solicitudes. Usamos la analítica para entender el uso y mejorar la app. La versión actual no muestra publicidad."
+      ],
+      [
+        "4. Compras y asistencia",
+        "Apple App Store o Google Play procesa los pagos. Weekline recibe información de productos, transacciones y derechos de acceso para activar o restaurar Pro. No recibimos los datos completos de tu tarjeta ni la contraseña de tu cuenta de la tienda.",
+        "Si nos contactas, tratamos tu correo, mensaje y archivos que decidas enviar para responder. Evita incluir información sensible o contenido innecesario de tu agenda."
+      ],
+      [
+        "5. Notificaciones, widgets y copias",
+        "Los recordatorios se programan localmente. Los detalles pueden aparecer en notificaciones y widgets, incluso en la pantalla bloqueada, según tus ajustes. Los datos del widget se comparten con el sistema operativo y la extensión de widgets de la app.",
+        "La app crea copias locales al cambiar la agenda. La exportación utiliza el menú de compartir del sistema y envía los datos al destino que elijas, como un proveedor de archivos o una unidad en la nube. Los archivos JSON contienen datos legibles. Las copias del dispositivo también pueden incluir datos de la app según los ajustes del sistema."
+      ],
+      [
+        "6. Proveedores y tratamiento internacional",
+        "Google trata los datos de analítica; Apple y Google prestan los servicios de las tiendas. Los proveedores de archivos o correo que elijas tratan lo que envíes mediante ellos. Pueden tratar datos en otros países, incluidos Estados Unidos, conforme a sus condiciones y las garantías aplicables. No vendemos el contenido de tu agenda.",
+        "Esta web está alojada en GitHub Pages. GitHub puede tratar datos técnicos de acceso, como direcciones IP y registros de solicitudes. No hemos añadido scripts de analítica, publicidad ni cookies de seguimiento a estas páginas."
+      ],
+      [
+        "7. Conservación y eliminación",
+        "Los datos locales permanecen hasta que se eliminan del almacenamiento de la app. Borrar un evento no elimina necesariamente las copias locales anteriores. Desinstalar la app o borrar sus datos suele eliminar los datos locales; debes gestionar aparte los archivos exportados, las copias del dispositivo o de la nube y las cachés del sistema.",
+        "La conservación de la analítica depende de las reglas configuradas en la propiedad de Google Analytics vinculada. Los informes agregados pueden tener reglas distintas. Desinstalar no borra automáticamente datos analíticos previos ni transacciones de las tiendas. Contacta con nosotros para consultar el periodo aplicable o solicitar la eliminación. Las tiendas conservan registros según sus políticas y obligaciones legales. Guardamos la correspondencia de asistencia el tiempo necesario para atender la solicitud y cumplir las obligaciones aplicables."
+      ],
+      [
+        "8. Opciones y derechos",
+        "Puedes editar o borrar eventos, quitar widgets, controlar permisos y vistas previas de notificaciones y gestionar archivos y copias. La versión actual no dispone de un interruptor para desactivar la analítica. Los ajustes publicitarios del dispositivo no necesariamente detienen toda la analítica.",
+        "Según tu ubicación, puedes solicitar acceso, rectificación, supresión, limitación, oposición o una copia de tus datos, y reclamar ante la autoridad de protección de datos. Escríbenos para ejercerlos. Podemos necesitar información limitada para identificar los registros; al no existir una cuenta, algunos registros no pueden vincularse a tu correo. No tenemos acceso a los planes guardados únicamente en tu dispositivo."
+      ],
+      [
+        "9. Menores, seguridad y cambios",
+        "Weekline es un planificador de uso general y no se dirige específicamente a menores. Los padres o tutores pueden contactarnos sobre información enviada por un menor. Adoptamos medidas razonables de protección, pero ningún dispositivo o transmisión es completamente seguro.",
+        "Podemos actualizar esta política cuando cambien la app o nuestras prácticas. La fecha figura arriba y comunicaremos los cambios importantes cuando la ley lo exija."
+      ]
+    ],
+    "termsIntro": "Estas condiciones se aplican a Weekline, ofrecido por nextlinecode. Contacto: nextlinecode@gmail.com.",
+    "terms": [
+      [
+        "1. Uso de Weekline",
+        "Weekline permite organizar planes, tareas y recordatorios sin una cuenta propia. Utiliza la app de forma lícita y solo introduce o comparte información que tengas derecho a usar. Estas condiciones no limitan los derechos irrenunciables de los consumidores."
+      ],
+      [
+        "2. Funciones gratuitas y Pro",
+        "La agenda, un recordatorio por evento y los modos claro y oscuro son gratuitos. Pro desbloquea widgets, más temas, varios recordatorios, repetición avanzada, estadísticas semanales y entrada inteligente de fechas y horas. Las funciones pueden variar según el dispositivo y la versión."
+      ],
+      [
+        "3. Compra única y restauración",
+        "Weekline Pro es actualmente una compra única no consumible dentro de la app, no una suscripción. La tienda muestra el precio y los impuestos antes de comprar. Apple o Google gestiona el pago y aplica sus reglas de compra y reembolso junto con tus derechos legales.",
+        "Restaura las compras compatibles con la misma cuenta de tienda y en la misma plataforma. Las compras no se transfieren automáticamente entre iOS y Android. Pro no garantiza el mantenimiento indefinido del servicio, de todas las funciones o de todos los dispositivos."
+      ],
+      [
+        "4. Planes, copias y recordatorios",
+        "Conservas tus derechos sobre el contenido introducido. Haz copias de la información importante. nextlinecode no mantiene una copia de tu agenda en un servidor; importar una copia puede sustituir los datos actuales.",
+        "Los permisos, los modos de concentración, la batería, los cambios de zona horaria y las restricciones del sistema pueden afectar a los avisos. No uses Weekline como único recordatorio para situaciones críticas de seguridad, salud o emergencia."
+      ],
+      [
+        "5. Privacidad, disponibilidad y responsabilidad",
+        "La Política de privacidad describe el tratamiento de información. Las actualizaciones y los cambios técnicos pueden afectar a las funciones o su disponibilidad. En la medida permitida por la ley, no garantizamos un funcionamiento continuo o sin errores. No excluimos responsabilidades que legalmente no puedan excluirse."
+      ],
+      [
+        "6. Cambios y condiciones de las plataformas",
+        "Podemos revisar estas condiciones e indicar aquí su fecha de vigencia, avisando de los cambios importantes cuando sea necesario. También se aplican, cuando corresponda, el EULA estándar de Apple y las condiciones de la tienda. Si una cláusula no es exigible, prevalece la normativa imperativa y el resto sigue vigente."
+      ]
+    ]
+  },
+  "ja": {
+    "label": "日本語",
+    "privacyTitle": "プライバシーポリシー",
+    "termsTitle": "利用規約",
+    "date": "施行日：2026年10月16日",
+    "privacyIntro": "本ポリシーは、nextlinecodeが提供するiOS・Android向け週間プランナーWeekline（旧称Alarmu）における情報の取り扱いを説明します。",
+    "privacy": [
+      [
+        "1. 運営者とお問い合わせ",
+        "運営者はnextlinecodeです。プライバシーに関するお問い合わせや請求はnextlinecode@gmail.comまでご連絡ください。Weekline独自のアカウント登録は不要です。"
+      ],
+      [
+        "2. 端末に保存する予定と設定",
+        "予定のタイトル、日時、メモ、チェックリスト、完了状態、繰り返し、通知、テーマ、Proの状態は端末に保存します。予定の内容をnextlinecodeのサーバーへアップロードしません。日付・時刻のスマート入力は端末内で処理します。"
+      ],
+      [
+        "3. 利用状況の分析",
+        "Google Analytics for Firebaseを使用し、画面の閲覧、予定の作成・編集・完了、週の移動、テーマ変更などを記録します。独自のイベント項目には入力方法、繰り返しの種類、通知数などが含まれますが、予定のタイトル、メモ、チェックリスト本文は含みません。",
+        "SDKはアプリインスタンスや端末の識別子、アプリ・OSのバージョン、言語、セッション・購入イベント、おおよその地域などを収集する場合があります。プラットフォームの設定上利用できる広告識別子が処理される場合があります。通信サービスはリクエストの送信にIPアドレスを処理します。分析は利用状況の把握と改善に使用します。現在のアプリには広告表示機能はありません。"
+      ],
+      [
+        "4. 購入とサポート",
+        "決済はApple App StoreまたはGoogle Playが処理します。アプリはProの提供・復元のため商品、取引、利用権限の情報を受け取ります。カード情報全体やストアアカウントのパスワードは受け取りません。",
+        "お問い合わせへの対応のため、メールアドレス、本文、ご自身で添付した情報を扱います。不要な予定内容や機密情報を送信しないでください。"
+      ],
+      [
+        "5. 通知・ウィジェット・バックアップ",
+        "通知は端末内で予約します。設定によってはロック画面を含む通知やウィジェットに予定が表示されます。ウィジェットのデータはOSとアプリのウィジェット拡張機能に共有します。",
+        "予定変更時にローカルバックアップを作成します。書き出しはOSの共有機能を使い、選択したファイルサービスやクラウドドライブへ送信します。JSONファイルには読み取れる形式の予定が含まれます。OSの設定によっては端末バックアップにもアプリデータが含まれます。"
+      ],
+      [
+        "6. 外部サービスと国外での処理",
+        "Googleは分析、AppleとGoogleはストアサービスを提供します。選択したファイル・メールサービスは、その経路で送った情報を処理します。各提供者の規約と適用される保護措置に従い、米国など居住国以外で処理する場合があります。当社は予定の内容を販売しません。",
+        "このサイトはGitHub Pagesで公開しています。GitHubはIPアドレスやリクエストログなどを処理する場合があります。本ページには独自の分析スクリプト、広告、追跡Cookieを追加していません。"
+      ],
+      [
+        "7. 保存期間と削除",
+        "ローカルデータはアプリの保存領域から削除されるまで残ります。予定を削除しても過去のバックアップに残る場合があります。アプリやそのデータの削除で通常はローカルデータも削除されますが、書き出したファイル、端末・クラウドのバックアップ、OSのキャッシュは別途管理が必要です。",
+        "分析データは接続先のGoogle Analyticsプロパティに設定された保存規則に従います。集計レポートは異なる扱いになる場合があります。アプリを削除しても過去の分析データやストア取引は自動削除されません。適用期間の確認や削除請求はお問い合わせください。取引記録は各ストアの方針と法的義務に従い、問い合わせ記録は対応と適用義務に必要な期間保存します。"
+      ],
+      [
+        "8. 選択肢と権利",
+        "予定の編集・削除、ウィジェットの削除、通知の権限・プレビューの設定、ファイルやバックアップの管理ができます。現在のバージョンにはアプリ内で分析収集を停止するスイッチはありません。端末の広告設定だけではすべての分析収集が止まらない場合があります。",
+        "地域により、開示、訂正、削除、処理制限、異議申立て、データの写しの請求や監督機関への申し立てが認められる場合があります。メールでご連絡ください。記録特定に必要な最小限の情報をお願いする場合があります。独自アカウントがないため、分析記録をメールと結び付けられないことがあります。端末にのみ保存された予定にはアクセスできません。"
+      ],
+      [
+        "9. 子ども・安全性・変更",
+        "Weeklineは一般向けのプランナーで、特に子どもを対象としていません。子どもが送信した情報について保護者からお問い合わせいただけます。合理的な保護措置を講じますが、端末や通信の完全な安全性は保証できません。",
+        "アプリや運用の変更に合わせ本ポリシーを更新する場合があります。施行日は上部に示し、重要な変更は適用法に従って通知します。"
+      ]
+    ],
+    "termsIntro": "本規約はnextlinecodeが提供するWeeklineに適用します。お問い合わせ：nextlinecode@gmail.com。",
+    "terms": [
+      [
+        "1. 利用について",
+        "Weeklineは独自アカウントなしで予定・タスク・通知を管理するアプリです。適法に利用し、利用する権利のある情報のみ入力・共有してください。本規約は強行法規に基づく消費者の権利を制限しません。"
+      ],
+      [
+        "2. 無料機能とPro",
+        "予定管理、予定ごとに1件の通知、ライト・ダークモードは無料です。Proではウィジェット、追加テーマ、複数通知、高度な繰り返し、週間インサイト、日付・時刻のスマート入力を利用できます。端末やバージョンにより利用範囲が異なる場合があります。"
+      ],
+      [
+        "3. 買い切り購入と復元",
+        "Weekline Proは現在、定期購入ではなく非消耗型の買い切りアプリ内課金です。価格と税金は購入前にストアに表示されます。AppleまたはGoogleが決済し、各ストアの購入・返金規則と適用される消費者の権利が適用されます。",
+        "同じプラットフォーム上で同じストアアカウントを使い、対象の購入を復元できます。iOSとAndroidの間で購入は自動移行されません。購入はサービス、すべての機能や端末の無期限のサポートを保証するものではありません。"
+      ],
+      [
+        "4. 予定・バックアップ・通知",
+        "入力した内容の権利は利用者に帰属します。重要な情報はバックアップしてください。当社は予定のサーバー上のコピーを提供せず、バックアップの読み込みで現在のデータが置き換わる場合があります。",
+        "通知は権限、集中モード、電池設定、時間帯の変更、OSの制限などの影響を受けます。安全、医療、緊急の用途で唯一の通知手段として依存しないでください。"
+      ],
+      [
+        "5. プライバシー・提供状況・責任",
+        "情報の扱いはプライバシーポリシーに記載します。更新や技術的変更により機能や提供状況が変わる場合があります。法令が許す範囲で、無停止や無不具合の動作は保証しません。法的に免除できない責任を排除しません。"
+      ],
+      [
+        "6. 改定とプラットフォームの条件",
+        "改定時は施行日を掲載し、必要に応じ重要な変更を通知します。該当する場合、Appleの標準EULAおよびストアの規約も適用されます。一部の条項が無効でも強行法規が適用され、その他の条項は引き続き有効です。"
+      ]
+    ]
+  },
+  "zh-Hans": {
+    "label": "简体中文",
+    "privacyTitle": "隐私政策",
+    "termsTitle": "使用条款",
+    "date": "生效日期：2026年10月16日",
+    "privacyIntro": "本政策说明 nextlinecode 如何在 iOS 和 Android 每周计划应用 Weekline（原名 Alarmu）中处理信息。",
+    "privacy": [
+      [
+        "1. 运营者与联系方式",
+        "服务运营者为 nextlinecode。隐私咨询或请求请发送至 nextlinecode@gmail.com。Weekline 不要求注册独立账号。"
+      ],
+      [
+        "2. 设备上的日程和设置",
+        "日程标题、日期、备注、清单、完成状态、重复规则、提醒、主题及 Pro 状态保存在设备上。应用不会将日程内容上传至 nextlinecode 的服务器。智能日期和时间输入在设备上处理。"
+      ],
+      [
+        "3. 使用情况分析",
+        "应用使用 Google Analytics for Firebase，记录页面浏览、创建或编辑日程、完成事项、切换周和主题等操作。自定义事件参数包括输入方式、重复类型和提醒数量，不包含日程标题、备注或清单正文。",
+        "SDK 还可能收集应用实例和设备标识符、应用及系统版本、语言、会话及购买事件、粗略地区等信息。根据平台设置，可能处理可用的广告标识符。网络服务在传送请求时处理 IP 地址。分析用于了解使用情况和改进应用。目前应用不展示广告。"
+      ],
+      [
+        "4. 购买与客服",
+        "付款由 Apple App Store 或 Google Play 处理。应用获取商品、交易及使用权限信息，以解锁或恢复 Pro。我们不会获取完整的银行卡资料或商店账号密码。",
+        "联系我们时，我们处理您的邮箱、消息及主动提交的附件，以答复请求。请勿发送不必要的日程内容或敏感资料。"
+      ],
+      [
+        "5. 通知、小组件与备份",
+        "提醒在设备本地安排。根据设置，日程详情可能显示在通知、小组件或锁定屏幕上。小组件数据与操作系统及应用的小组件扩展共享。",
+        "修改日程时应用生成本地备份。导出使用系统分享功能，数据会传送到您选择的文件服务或云盘。JSON 备份包含可读取的日程内容。操作系统的设备备份也可能按您的设置包含应用数据。"
+      ],
+      [
+        "6. 服务提供者与跨境处理",
+        "Google 处理分析数据，Apple 和 Google 提供商店服务；您选择的文件或邮件服务处理经其传送的信息。这些提供者可能依据其条款及适用保障措施，在美国等您所在国家以外的地区处理数据。我们不出售您的日程内容。",
+        "本网站由 GitHub Pages 托管。GitHub 可能处理 IP 地址和请求日志等技术访问信息。我们未在这些页面添加分析脚本、广告或跟踪 Cookie。"
+      ],
+      [
+        "7. 保留与删除",
+        "本地数据保留至从应用存储中删除。删除日程不一定清除旧的本地备份。卸载应用或清除应用数据通常会删除本地数据，但导出文件、设备或云端备份以及系统缓存需要另行管理。",
+        "分析数据按照关联 Google Analytics 属性所配置的保留规则保存；汇总报告可能适用不同规则。卸载应用不会自动删除之前的分析数据或商店交易记录。请联系我们查询适用期限或请求删除。商店记录遵循 Apple 或 Google 的政策及法律义务；客服通信保留至处理请求和履行相关义务所需的期限。"
+      ],
+      [
+        "8. 选择与权利",
+        "您可编辑或删除日程、移除小组件、管理通知权限及预览、导出文件和备份。目前版本没有应用内分析收集关闭开关。设备的广告设置不一定停止全部分析收集。",
+        "根据所在地区，您可能有权申请访问、更正、删除、限制或反对处理、获取数据副本，以及向当地监管机构投诉。请通过邮箱联系我们。我们可能需要最少量信息来查找相关记录；由于没有应用账号，部分分析记录无法关联至邮箱。我们无法访问仅保存在您设备上的日程。"
+      ],
+      [
+        "9. 儿童、安全与变更",
+        "Weekline 是通用计划工具，并非专门面向儿童。家长或监护人可就儿童提交的信息联系我们。我们采取合理保护措施，但无法保证任何设备或传输方式绝对安全。",
+        "应用或处理方式变更时，我们可能更新本政策。生效日期见上方，并将按照适用法律要求通知重大变更。"
+      ]
+    ],
+    "termsIntro": "本条款适用于 nextlinecode 提供的 Weekline。联系邮箱：nextlinecode@gmail.com。",
+    "terms": [
+      [
+        "1. 使用服务",
+        "Weekline 无需独立账号即可管理日程、任务和提醒。请合法使用应用，仅输入或分享您有权使用的信息。本条款不限制强制性消费者保护法律赋予的权利。"
+      ],
+      [
+        "2. 免费功能与 Pro",
+        "日程管理、每项日程一个提醒、浅色与深色模式免费提供。Pro 解锁小组件、更多主题、多个提醒、高级重复规则、每周统计和智能日期时间输入。具体功能可能因设备和版本而异。"
+      ],
+      [
+        "3. 一次性购买与恢复",
+        "Weekline Pro 目前为一次性非消耗型应用内购买，并非订阅。购买前商店会显示价格和税费。Apple 或 Google 处理付款，其购买和退款规则与适用的消费者权利同时适用。",
+        "可使用同一平台的同一商店账号恢复符合条件的购买。iOS 与 Android 之间不会自动转移购买权益。购买 Pro 不代表服务、全部功能或全部设备将获得无限期支持。"
+      ],
+      [
+        "4. 日程、备份与提醒",
+        "您保留对输入内容的权利。请备份重要资料。nextlinecode 不提供日程的服务器副本；导入备份可能替换当前数据。",
+        "权限、专注模式、电池设置、时区变化及系统限制可能影响提醒。涉及安全、医疗或紧急事项时，请勿将 Weekline 作为唯一提醒方式。"
+      ],
+      [
+        "5. 隐私、可用性与责任",
+        "信息处理方式见隐私政策。更新和技术变化可能影响功能与可用性。在法律允许的范围内，我们不保证运行不间断或完全无错误。本条款不排除法律禁止排除的责任。"
+      ],
+      [
+        "6. 变更与平台条款",
+        "修订后将在本页公布生效日期，并在必要时通知重大变更。适用时，Apple 标准应用许可协议（EULA）及相关商店条款亦适用。若某条款不可执行，则适用强制性法律，其余条款仍然有效。"
+      ]
+    ]
+  },
+  "zh-Hant": {
+    "label": "繁體中文",
+    "privacyTitle": "隱私權政策",
+    "termsTitle": "使用條款",
+    "date": "生效日期：2026年10月16日",
+    "privacyIntro": "本政策說明 nextlinecode 如何在 iOS 與 Android 每週規劃 App Weekline（原名 Alarmu）中處理資訊。",
+    "privacy": [
+      [
+        "1. 營運者與聯絡方式",
+        "服務營運者為 nextlinecode。隱私相關諮詢或請求請寄至 nextlinecode@gmail.com。Weekline 不要求註冊獨立帳號。"
+      ],
+      [
+        "2. 裝置上的行程與設定",
+        "行程標題、日期、備註、清單、完成狀態、重複規則、提醒、主題及 Pro 狀態儲存在裝置上。App 不會將行程內容上傳至 nextlinecode 的伺服器。智慧日期與時間輸入在裝置上處理。"
+      ],
+      [
+        "3. 使用情況分析",
+        "App 使用 Google Analytics for Firebase，記錄畫面瀏覽、建立或編輯行程、完成事項、切換週與主題等操作。自訂事件參數包含輸入方式、重複類型及提醒數量，不包含行程標題、備註或清單內文。",
+        "SDK 亦可能蒐集 App 執行個體與裝置識別碼、App 及系統版本、語言、工作階段與購買事件、概略地區等資訊。依平台設定，可能處理可用的廣告識別碼。網路服務在傳送請求時處理 IP 位址。分析用於了解使用情況及改善 App。目前 App 不顯示廣告。"
+      ],
+      [
+        "4. 購買與客服",
+        "付款由 Apple App Store 或 Google Play 處理。App 取得商品、交易及使用權限資訊，以解鎖或回復 Pro。我們不會取得完整付款卡資料或商店帳號密碼。",
+        "聯絡我們時，我們會處理您的電子郵件、訊息及主動提供的附件，以答覆請求。請勿傳送不必要的行程內容或敏感資料。"
+      ],
+      [
+        "5. 通知、小工具與備份",
+        "提醒在裝置本機排程。依您的設定，行程詳情可能顯示於通知、小工具或鎖定畫面。小工具資料與作業系統及 App 的小工具延伸功能共用。",
+        "修改行程時 App 會建立本機備份。匯出使用系統分享功能，資料會傳送至您選擇的檔案服務或雲端硬碟。JSON 備份包含可讀取的行程內容。作業系統的裝置備份也可能依設定包含 App 資料。"
+      ],
+      [
+        "6. 服務提供者與境外處理",
+        "Google 處理分析資料，Apple 與 Google 提供商店服務；您選擇的檔案或郵件服務處理透過其傳送的資訊。這些提供者可能依其條款與適用保障措施，在美國等您所在國家以外的地區處理資料。我們不出售您的行程內容。",
+        "本網站由 GitHub Pages 託管。GitHub 可能處理 IP 位址、請求紀錄等技術存取資訊。我們未在這些頁面加入分析指令碼、廣告或追蹤 Cookie。"
+      ],
+      [
+        "7. 保存與刪除",
+        "本機資料保留至從 App 儲存空間刪除。刪除行程不一定清除舊的本機備份。移除 App 或清除其資料通常會刪除本機資料，但匯出檔案、裝置與雲端備份及系統快取須另行管理。",
+        "分析資料依關聯 Google Analytics 資源設定的保存規則保留；彙總報表可能適用不同規則。移除 App 不會自動刪除先前的分析資料或商店交易紀錄。請聯絡我們查詢適用期間或請求刪除。商店紀錄依 Apple 或 Google 的政策及法律義務保存；客服通信保留至處理請求與履行相關義務所需的期間。"
+      ],
+      [
+        "8. 選擇與權利",
+        "您可編輯或刪除行程、移除小工具、管理通知權限及預覽、匯出檔案與備份。目前版本沒有 App 內分析蒐集停用開關。裝置廣告設定不一定停止所有分析蒐集。",
+        "依所在地區，您可能有權請求存取、更正、刪除、限制或反對處理、取得資料副本，並向當地主管機關申訴。請以電子郵件聯絡我們。我們可能需要最少量資訊來查找紀錄；由於沒有 App 帳號，部分分析紀錄無法連結至您的電子郵件。我們無法存取僅儲存在您裝置上的行程。"
+      ],
+      [
+        "9. 兒童、安全與變更",
+        "Weekline 是一般用途規劃工具，並非專門以兒童為對象。家長或監護人可就兒童提交的資訊與我們聯絡。我們採取合理保護措施，但無法保證任何裝置或傳輸方式絕對安全。",
+        "App 或處理方式變更時，我們可能更新本政策。生效日期見上方，重大變更將依適用法律要求通知。"
+      ]
+    ],
+    "termsIntro": "本條款適用於 nextlinecode 提供的 Weekline。聯絡信箱：nextlinecode@gmail.com。",
+    "terms": [
+      [
+        "1. 服務使用",
+        "Weekline 無須獨立帳號即可管理行程、待辦與提醒。請合法使用 App，僅輸入或分享您有權使用的資訊。本條款不限制強制性消費者保護法律賦予的權利。"
+      ],
+      [
+        "2. 免費功能與 Pro",
+        "行程管理、每個行程一個提醒、淺色與深色模式免費提供。Pro 解鎖小工具、更多主題、多個提醒、進階重複規則、每週統計與智慧日期時間輸入。功能可能因裝置與版本而異。"
+      ],
+      [
+        "3. 一次性購買與回復",
+        "Weekline Pro 目前為一次性非消耗型 App 內購買，並非訂閱。購買前商店會顯示價格與稅費。Apple 或 Google 處理付款，其購買與退款規則和適用的消費者權利同時適用。",
+        "可於同一平台使用相同商店帳號回復符合條件的購買。iOS 與 Android 間不會自動轉移購買權益。購買 Pro 不代表服務、全部功能或全部裝置將獲得無限期支援。"
+      ],
+      [
+        "4. 行程、備份與提醒",
+        "您保留輸入內容的權利。請備份重要資訊。nextlinecode 不提供行程的伺服器副本；匯入備份可能取代現有資料。",
+        "權限、專注模式、電池設定、時區變更與系統限制可能影響提醒。涉及安全、醫療或緊急事項時，請勿將 Weekline 作為唯一提醒方式。"
+      ],
+      [
+        "5. 隱私、可用性與責任",
+        "資訊處理方式見隱私權政策。更新與技術變化可能影響功能和可用性。在法律允許範圍內，我們不保證運作不中斷或完全沒有錯誤。本條款不排除法律禁止排除的責任。"
+      ],
+      [
+        "6. 變更與平台條款",
+        "修訂後將於本頁公布生效日期，並於必要時通知重大變更。適用時，Apple 標準 App 授權合約（EULA）及相關商店條款亦適用。若部分條款無法執行，則適用強制性法律，其餘條款仍有效。"
+      ]
+    ]
+  }
+}
